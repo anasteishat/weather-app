@@ -1,4 +1,4 @@
-let weather = {
+const weather = {
     apiKey: "0f56fe96bea3a3f7b63d5edaf8ed5f1b",
     fetchWeather: function (city) {
       fetch(
